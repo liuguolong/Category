@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A95831A2-ADDF-4909-8367-AED89320E73A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CoreCategory</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>48455ade-35cd-4b1c-99bd-f56a5d9fc24d++2582</key>
+		<string>http://192.168.101.48:19999/ltzb/svn/005.%25E7%25BB%2588%25E7%25AB%25AF%25E5%25BA%2594%25E7%2594%25A8/02-%25E8%2581%2594%25E9%2580%259A%25E6%2589%258B%25E6%259C%25BA%25E8%2590%25A5%25E4%25B8%259A%25E5%258E%2585/03-ios%25E6%25BA%2590%25E7%25A0%2581/trunk/CoreCategory</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CoreCategory.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>48455ade-35cd-4b1c-99bd-f56a5d9fc24d++2582</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>48455ade-35cd-4b1c-99bd-f56a5d9fc24d++2582</key>
+		<string>http://192.168.101.48:19999/ltzb/svn</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://192.168.101.48:19999/ltzb/svn/005.%25E7%25BB%2588%25E7%25AB%25AF%25E5%25BA%2594%25E7%2594%25A8/02-%25E8%2581%2594%25E9%2580%259A%25E6%2589%258B%25E6%259C%25BA%25E8%2590%25A5%25E4%25B8%259A%25E5%258E%2585/03-ios%25E6%25BA%2590%25E7%25A0%2581/trunk/CoreCategory/CoreCategory.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>48455ade-35cd-4b1c-99bd-f56a5d9fc24d++2582</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>48455ade-35cd-4b1c-99bd-f56a5d9fc24d++2582</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CoreCategory</string>
+		</dict>
+	</array>
+</dict>
+</plist>
